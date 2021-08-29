@@ -1,2 +1,1 @@
-# make-your-sidebar
-Created with CodeSandbox
+# Component to create your sidebar easily
